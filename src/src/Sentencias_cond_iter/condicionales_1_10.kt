@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun menu(afirmacion: String): Any {
         return when (afirmacion.lowercase()) {

@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun entrada(edad: Int): String {
         return when {

@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun contrasena(usuario: String): Boolean {
         return usuario == "contrasena"

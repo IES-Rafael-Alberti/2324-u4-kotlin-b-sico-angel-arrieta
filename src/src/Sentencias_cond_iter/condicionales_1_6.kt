@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun division(sexo: String, nombre: String): String{
         val mujer = listOf("a", "b", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m")

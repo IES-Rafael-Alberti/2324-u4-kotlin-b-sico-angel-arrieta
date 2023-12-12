@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun compra(totalVenta: Int, ultimoPrecio: Int): Int {
        return when {

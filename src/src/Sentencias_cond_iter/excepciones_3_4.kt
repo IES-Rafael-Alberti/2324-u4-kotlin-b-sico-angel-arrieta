@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun esEntero(numero: Any): Boolean {
         return numero !is Int

@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun declaracion(renta: Int): String {
         return when {

@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun cuentaAtras(inicio: Int): String {
         var resultado = ""

@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun contadorPrimos(lista: List<Int>): Int {
         var primosEncontrados = 0

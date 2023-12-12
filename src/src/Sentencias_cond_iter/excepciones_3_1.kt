@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun unaVida(edad: Int): String {
         var resultado = ""

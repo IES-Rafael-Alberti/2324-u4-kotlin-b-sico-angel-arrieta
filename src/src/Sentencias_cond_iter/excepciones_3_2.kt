@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun impares(ultimo: Int): String {
         var resultado = ""

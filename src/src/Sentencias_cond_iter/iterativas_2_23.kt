@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun cuentaDigitos(linea: List<String>): Int {
         var digitos = 0

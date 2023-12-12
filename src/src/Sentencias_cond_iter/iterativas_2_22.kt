@@ -1,3 +1,5 @@
+package Sentencias_cond_iter
+
 fun main() {
     fun paridadDigitos(numero: Int): Pair<Int, Int> {
         val digitos = numero.toString().toCharArray()
