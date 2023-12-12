@@ -1,3 +1,5 @@
+package Introduccion
+
 fun main() {
     fun fechado (fecha: String): String {
         val barras = fecha.filter {it == '/'}

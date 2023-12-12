@@ -1,3 +1,5 @@
+package Introduccion
+
 fun main() {
     print("Dime tu correo electrónico: ")
     val correo = readln()

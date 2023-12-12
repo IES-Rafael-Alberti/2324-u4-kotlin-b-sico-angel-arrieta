@@ -1,3 +1,5 @@
+package Introduccion
+
 fun main(){
     fun listaCompra(productos: String): String{
         val lista = productos.split(",")
